@@ -18,5 +18,10 @@
    <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
  </div>
   
+  <h1> Contato pessoal: </h1> 
+  <div data-Contato>
+         <a href = "mailto:luizflm199@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+       
+ </div>
   
 
