@@ -21,7 +21,7 @@ Já faz 3 anos que não utilizo nenhuma rede social como Facebok, Instagram e Tw
   <h1> Contato pessoal: </h1> 
   <div data-Contato>
          <a href = "mailto:luizflm199@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+           <a href = "https://www.linkedin.com/in/luiz-fernando-lima-machado-197b0a195/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
    
        
