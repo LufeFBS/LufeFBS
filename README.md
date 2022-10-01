@@ -1,8 +1,8 @@
-### Seja Bem Vindo(a) ao Meu Perfil.
-### Meu nome é Luiz Fernando Lima Machado, atualmente estou me dedicando ao máximo para conseguir uma oportunidade na área de TI.😀
-<h3> Gosto de passar boa parte do tempo que tenho disponivel com o meu pet 🐶, uma american bully muito carinhosa e educada. </h3>
+### Olá, Meu nome é Luiz Fernando e  tenho 23 anos.
+Moro na zona sul de São Paulo com a minha Mãe e nossos 3 pets, sou apaixonado por esses pequenos.<br>
+Nas horas vagas gosto de estudar utilizando a tecnica Pomodoro (40/5/15), ouvir podcast e ler livros de desenvolvimento pessoal.<br>
+Já faz 3 anos que não utilizo nenhuma rede social como Facebok, Instagram e Twitter. Estou tentando criar coragem para atualizar meu linkedin.
 
-- 🌱 Atualmente estudo 8 horas de programação e 4 de ingles.
 - 🍅 Praticante ativo do método Pomodoro. (50/5/15) 
 
 <div align="center">
@@ -20,7 +20,10 @@
   
   <h1> Contato pessoal: </h1> 
   <div data-Contato>
-         <a href = "mailto:luizflm199@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+         <a href = "mailto:luizflm199@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+   
        
  </div>
   
