@@ -3,7 +3,7 @@ Moro na zona sul de São Paulo com a minha Mãe e nossos 3 pets, sou apaixonado 
 Nas horas vagas gosto de estudar utilizando a tecnica Pomodoro (40/5/15), ouvir podcast e ler livros de desenvolvimento pessoal.<br>
 Já faz 3 anos que não utilizo nenhuma rede social como Facebok, Instagram e Twitter. Estou tentando criar coragem para atualizar meu linkedin.
 
-- 🍅 Praticante ativo do método Pomodoro. (50/5/15) 
+- 🍅 Praticante ativo do método Pomodoro. (40/5/15) 
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
