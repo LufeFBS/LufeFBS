@@ -7,7 +7,7 @@ Atualmente estou atuando como Service Desk na empresa FCamara 🍊📙<br>
 - 🍅 Praticante ativo do método Pomodoro. (50/10)
 - Ano que vem quero ingressar como Programador Junior na parte de Back-End.👨‍💻☕
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/LufeFBS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LufeFBS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LufeFBS&layout=compact&langs_count=7&theme=dark"/>
 </div>
