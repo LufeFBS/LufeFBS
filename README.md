@@ -1,9 +1,11 @@
 ### Olá, Meu nome é Luiz Fernando e  tenho 23 anos.
 Moro na zona sul de São Paulo com a minha Mãe e nossos 3 pets, sou apaixonado por esses pequenos.<br>
-Nas horas vagas gosto de estudar utilizando a tecnica Pomodoro (40/5/15), ouvir podcast e ler livros de desenvolvimento pessoal.<br>
-Já faz 3 anos que não utilizo nenhuma rede social como Facebok, Instagram e Twitter. Estou tentando criar coragem para atualizar meu linkedin.
+Nas horas vagas gosto jogar Xadrez, fazer musculação e me conectar com as pessoas.
+Tentei criar um projeto de dançarino, mas não foi pra frente rs, caso queiram saber mais só jogar no campo de pesquisa do Youtube, Tiktok e Instagram o nome: LufeFBS.
+Participei da segunda turma do projeto Oracle Next One e depois disso consegui ingressar na area de TI como Suporte Técnico.
+Atualmente estou atuando como Service Desk na empresa FCamara 🍊📙
 
-- 🍅 Praticante ativo do método Pomodoro. (40/5/15) 
+- 🍅 Praticante ativo do método Pomodoro. (50/10) 
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
