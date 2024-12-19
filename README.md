@@ -1,8 +1,8 @@
 ### Olá, Meu nome é Luiz Fernando e  tenho 23 anos.
-Nas horas vagas gosto de jogar Xadrez, fazer musculação e me conectar com as pessoas. ✨♟️
-Tentei criar um projeto de dançarino, mas não foi pra frente rs, caso queiram saber mais só jogar no campo de pesquisa do Youtube, Tiktok ou Instagram o nome: LufeFBS.
-Participei da segunda turma do projeto Oracle Next One e depois disso consegui ingressar na area de TI como Suporte Técnico.
-Atualmente estou atuando como Service Desk na empresa FCamara 🍊📙
+Nas horas vagas gosto de jogar Xadrez, fazer musculação e me conectar com as pessoas. ✨♟️<br>
+Tentei criar um projeto de dançarino, mas não foi pra frente rs, caso queiram saber mais só jogar no campo de pesquisa do Youtube, Tiktok ou Instagram o nome: LufeFBS.<br>
+Participei da segunda turma do projeto Oracle Next One e depois disso consegui ingressar na area de TI como Suporte Técnico.<br>
+Atualmente estou atuando como Service Desk na empresa FCamara 🍊📙<br>
 
 - 🍅 Praticante ativo do método Pomodoro. (50/10)
 
